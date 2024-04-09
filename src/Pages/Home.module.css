@@ -1,0 +1,9 @@
+.home {
+  background: url("https://sandlini-zaika.netlify.app/assets/indian-food-on-restaurant-table-ca8b31c8.jpg");
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  background-position: center;
+}
